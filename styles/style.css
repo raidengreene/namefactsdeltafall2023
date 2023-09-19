@@ -1,0 +1,14 @@
+font-face{
+    font-family: 'Press Start 2P';
+}
+body{
+    font-family: "Press Start 2P", monospace;
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?q=10&h=200);
+}
+h1{
+    color: rgb(0, 255, 0)
+}
+p{
+    color:rgb(0, 255, 0)
+}
